@@ -60,7 +60,7 @@ android {
     signingConfigs {
         debug {
             storeFile file('android-key.jks')
-            keyAlias 'myalias'
+            keyAlias 'key0'
             storePassword 'ft1761'
             keyPassword 'ft1761'
         }
